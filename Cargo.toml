@@ -1,0 +1,12 @@
+[package]
+name = "refrs-web"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+authors = ["craftwork4498 <craftwork4498@gmail.com"]
+repository = "https://github.com/craftwork4498/refrs-web"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
